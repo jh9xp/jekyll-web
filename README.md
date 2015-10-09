@@ -1,2 +1,2 @@
 # jekyll-web
-Tests of using Jekyll for various Library sites
+Test of using Jekyll for www.library 
