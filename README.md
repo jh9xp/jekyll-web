@@ -8,7 +8,8 @@ Let us know if you need any help setting up a similar workflow.
 ## The Workflow
 
 ## Initial Release Features
-- CSS Framework
+- CSS Framework - MDL
+- Asset Compiler Minify
 - Home Page with a few inner pages
 - Functioning Forms
 - Events Page
