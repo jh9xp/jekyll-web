@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "I'm having fun with Jekyll"
+date:   2015-10-14 16:37:00
+categories: jill's stuff
+---
+I'm playing around with GitHub and Jekyll trying to learn my way around. 
+I found <a href="http://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/">one article</a> descrbing the benefits of moving from WordPress to Jekyll, which included 5 points:
+<ul>
+<li>WordPress is overkill</li>
+<li>WordPress struggles under heavy load</li>
+<li>WordPress is slow</li>
+<li>WordPress is a growing target for hackers</li>
+<li>WordPress hosting is expensive</li>
+</ul>
